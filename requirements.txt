@@ -1,0 +1,19 @@
+# How to install using requirements in venv: 
+# https://note.nkmk.me/en/python-pip-install-requirements/
+
+###### Requirements without Version Specifiers ######
+numba 
+numpy 
+scipy
+matplotlib
+ipywidgets
+ipykernel
+pandas
+openpyxl
+pathlib 
+sif_parser
+# sif_reader
+
+###### Requirements with Version Specifiers ######
+# docopt == 0.6.1             # Version Matching. Must be version 0.6.1
+
