@@ -1,4 +1,2 @@
-.venv/Lib/site-packages/jupyter.py
-
+# Ignore all the subfolders of .venv because that environment should be created locally
 .venv/
-# venv/
